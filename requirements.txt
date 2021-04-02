@@ -2,7 +2,6 @@ altair
 pandas
 streamlit
 yfinance
-streamlit
 datetime 
 talib 
 ta
