@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 altair==4.1.0
 appnope==0.1.2
 argon2-cffi==20.1.0
@@ -57,6 +58,14 @@ pyrsistent==0.17.3
 python-dateutil==2.8.1
 pytz==2021.1
 pyzmq==22.0.3
+=======
+pandas_datareader==0.9.0
+streamlit==0.79.0
+ta==0.7.0
+numpy==1.19.5
+pandas==1.2.1
+nltk==3.5
+>>>>>>> parent of 8e19764 (Merge branch 'master' of https://github.com/anton96vice/avstonkz)
 requests==2.25.1
 Send2Trash==1.5.0
 six==1.15.0
