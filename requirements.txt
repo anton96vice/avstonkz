@@ -3,3 +3,4 @@ pandas_datareader==0.9.0
 ta==0.7.0
 numpy==1.19.5
 pandas==1.2.1
+Ta-lib
