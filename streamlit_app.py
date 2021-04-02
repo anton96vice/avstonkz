@@ -217,4 +217,7 @@ dictt = [{'Ticker': str(stock), 'Current_Price': str(cprice), 'Sharpe Ratio':str
 
 
 output2 = pd.DataFrame(dictt)
+st.write("""
+# TA + Vader sentimental analysis for: """,stock, """\n(neg = bad, 0 - neutral, pos = good)
+""")
 st.dataframe(data=output2.style.highlight_max(axis=0))
